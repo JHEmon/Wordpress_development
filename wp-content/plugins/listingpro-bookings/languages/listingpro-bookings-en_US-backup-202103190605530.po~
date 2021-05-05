@@ -1,0 +1,477 @@
+# Loco Gettext template
+msgid ""
+msgstr ""
+"Project-Id-Version: listingpro-bookings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-19 06:04+0000\n"
+"POT-Revision-Date: Tue Mar 08 2016 16:05:54 GMT+0500 (Pakistan Standard Time)"
+"\n"
+"PO-Revision-Date: 2021-03-19 06:04+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"Language: en_US\n"
+"X-Loco-Version: 2.5.2; wp-5.7"
+
+#: templates/manage-booking.php:183
+msgid ""
+"  Appointments are pending approval. Pending Appointments will only show in "
+"calendar upon approval."
+msgstr ""
+
+#: templates/manage-booking.php:55
+msgid " Back To Appointments"
+msgstr ""
+
+#: templates/manage-booking.php:98 templates/manage-booking.php:803
+msgid "15 Minutes"
+msgstr ""
+
+#: templates/manage-booking.php:99 templates/manage-booking.php:804
+msgid "30 Minutes"
+msgstr ""
+
+#: templates/manage-booking.php:100 templates/manage-booking.php:805
+msgid "45 Minutes"
+msgstr ""
+
+#: templates/manage-booking.php:101 templates/manage-booking.php:806
+msgid "60 Minutes"
+msgstr ""
+
+#: templates/manage-booking.php:102 templates/manage-booking.php:807
+msgid "90 Minutes"
+msgstr ""
+
+#: templates/bookings.php:104
+msgid "9:00am - 10:00am"
+msgstr ""
+
+#: templates/manage-booking.php:233 templates/manage-booking.php:323
+#: templates/manage-booking.php:417 templates/manage-booking.php:512
+#: templates/manage-booking.php:604
+msgid "ACTION"
+msgstr ""
+
+#: templates/manage-booking.php:112
+msgid "Add all listings to accept appointments"
+msgstr ""
+
+#: listingpro-bookings.php:131
+msgid "Add New Booking"
+msgstr ""
+
+#: listingpro-bookings.php:129
+msgctxt "add new on admin bar"
+msgid "Booking"
+msgstr ""
+
+#: listingpro-bookings.php:680 templates/manage-booking.php:778
+msgid "Address"
+msgstr ""
+
+#: listingpro-bookings.php:128
+msgctxt "admin menu"
+msgid "Appointments"
+msgstr ""
+
+#: templates/manage-booking.php:199
+msgid "All"
+msgstr ""
+
+#: templates/manage-booking.php:47 templates/manage-booking.php:192
+msgid "All Appointments"
+msgstr ""
+
+#: listingpro-bookings.php:135
+msgid "All Bookings"
+msgstr ""
+
+#: listingpro-bookings.php:704
+msgid "Appointment Approved"
+msgstr ""
+
+#: listingpro-bookings.php:708
+msgid "Appointment Canceled"
+msgstr ""
+
+#: templates/bookings.php:123
+msgid "Appointment confirmation email will be sent upon approval."
+msgstr ""
+
+#: listingpro-bookings.php:536
+msgid "Appointment Created"
+msgstr ""
+
+#: listingpro-bookings.php:1095
+msgid "Appointment Date:"
+msgstr ""
+
+#: listingpro-bookings.php:665 templates/manage-booking.php:740
+msgid "Appointment Detail"
+msgstr ""
+
+#: listingpro-bookings.php:1093
+msgid "Appointment Details"
+msgstr ""
+
+#: listingpro-bookings.php:537
+msgid "Appointment Received"
+msgstr ""
+
+#: listingpro-bookings.php:1097
+msgid "Appointment Status:"
+msgstr ""
+
+#: listingpro-bookings.php:1096
+msgid "Appointment Time:"
+msgstr ""
+
+#: templates/manage-booking.php:696
+msgid ""
+"Appointments are pending for approval. Pending appointments will only show "
+"in calendar upon approval."
+msgstr ""
+
+#: templates/manage-booking.php:826
+msgid "Appointments not allowed for this listing"
+msgstr ""
+
+#: listingpro-bookings.php:1117 templates/manage-booking.php:205
+#: templates/manage-booking.php:293 templates/manage-booking.php:386
+#: templates/manage-booking.php:481 templates/manage-booking.php:573
+#: templates/manage-booking.php:673
+msgid "APPROVED"
+msgstr ""
+
+#: listingpro-bookings.php:111
+msgid "Associated Listing"
+msgstr ""
+
+#: listingpro-bookings.php:833
+msgid "Associated Listing:"
+msgstr ""
+
+#: templates/bookings.php:100
+msgid "August 26,2019"
+msgstr ""
+
+#: templates/bookings.php:131
+msgid "Awesome Job!"
+msgstr ""
+
+#: templates/bookings.php:28
+msgid "Book an Appointment Now!"
+msgstr ""
+
+#: templates/bookings.php:122
+msgid "book it"
+msgstr ""
+
+#: listingpro-bookings.php:558
+msgid "Booking Date"
+msgstr ""
+
+#: listingpro-bookings.php:560
+msgid "Booking End Time"
+msgstr ""
+
+#: listingpro-bookings.php:559
+msgid "Booking Start Time"
+msgstr ""
+
+#: listingpro-bookings.php:561
+msgid "Booking Status"
+msgstr ""
+
+#: templates/manage-booking.php:216
+msgid "CALENDAR"
+msgstr ""
+
+#: templates/manage-booking.php:49
+msgid "Calendar"
+msgstr ""
+
+#: templates/manage-booking.php:50
+msgid "Calendar only displays the approved Appointments."
+msgstr ""
+
+#: templates/manage-booking.php:150
+msgid "Cancel"
+msgstr ""
+
+#: listingpro-bookings.php:1118 templates/manage-booking.php:208
+#: templates/manage-booking.php:295 templates/manage-booking.php:388
+#: templates/manage-booking.php:483 templates/manage-booking.php:575
+#: templates/manage-booking.php:675
+msgid "CANCELED"
+msgstr ""
+
+#: listingpro-bookings.php:348
+msgid "Closed Now"
+msgstr ""
+
+#: templates/bookings.php:121
+msgid "Comment"
+msgstr ""
+
+#. Author of the plugin
+msgid "CridioStudio (Dev Team)"
+msgstr ""
+
+#: templates/manage-booking.php:228 templates/manage-booking.php:318
+#: templates/manage-booking.php:412 templates/manage-booking.php:507
+#: templates/manage-booking.php:599
+msgid "CUSTOMER"
+msgstr ""
+
+#: templates/manage-booking.php:230 templates/manage-booking.php:320
+#: templates/manage-booking.php:414 templates/manage-booking.php:509
+#: templates/manage-booking.php:601
+msgid "DATE"
+msgstr ""
+
+#: listingpro-bookings.php:562 listingpro-bookings.php:671
+#: templates/manage-booking.php:768
+msgid "Date"
+msgstr ""
+
+#: listingpro-bookings.php:355
+msgid "DAY OFF"
+msgstr ""
+
+#: listingpro-bookings.php:145
+msgid "Description."
+msgstr ""
+
+#: templates/manage-booking.php:705 templates/manage-booking.php:710
+msgid "Details"
+msgstr ""
+
+#: listingpro-bookings.php:133
+msgid "Edit Booking"
+msgstr ""
+
+#: listingpro-bookings.php:556 listingpro-bookings.php:676
+#: templates/bookings.php:117 templates/manage-booking.php:774
+msgid "Email"
+msgstr ""
+
+#: templates/manage-booking.php:211
+msgid "Expired"
+msgstr ""
+
+#: templates/bookings.php:113
+msgid "First Name"
+msgstr ""
+
+#: listingpro-bookings.php:668 templates/manage-booking.php:765
+msgid "Full Name"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.cridio.io"
+msgstr ""
+
+#: templates/manage-booking.php:164
+msgid "Just sit back and relax while the appointments start rolling in."
+msgstr ""
+
+#: templates/bookings.php:115
+msgid "Last Name"
+msgstr ""
+
+#: templates/manage-booking.php:229 templates/manage-booking.php:319
+#: templates/manage-booking.php:413 templates/manage-booking.php:508
+#: templates/manage-booking.php:600
+msgid "LISTING"
+msgstr ""
+
+#: listingpro-bookings.php:1094
+msgid "Listing Title:"
+msgstr ""
+
+#. Name of the plugin
+msgid "ListingPro Bookings"
+msgstr ""
+
+#: templates/manage-booking.php:811
+msgid "LISTINGS FOR APPOINTMENTS"
+msgstr ""
+
+#: listingpro-bookings.php:682 templates/manage-booking.php:780
+msgid "Message"
+msgstr ""
+
+#: listingpro-bookings.php:449
+msgid "New Appointment For"
+msgstr ""
+
+#: listingpro-bookings.php:132
+msgid "New Booking"
+msgstr ""
+
+#: templates/manage-booking.php:786
+msgid "No Appointment Selected"
+msgstr ""
+
+#: listingpro-bookings.php:139
+msgid "No Booking found in Trash."
+msgstr ""
+
+#: listingpro-bookings.php:138
+msgid "No Bookings found."
+msgstr ""
+
+#: listingpro-bookings.php:137
+msgid "Parent Bookings:"
+msgstr ""
+
+#: listingpro-bookings.php:441 listingpro-bookings.php:1116
+#: templates/manage-booking.php:202 templates/manage-booking.php:291
+#: templates/manage-booking.php:384 templates/manage-booking.php:479
+#: templates/manage-booking.php:571 templates/manage-booking.php:671
+msgid "PENDING"
+msgstr ""
+
+#: listingpro-bookings.php:557 listingpro-bookings.php:678
+#: templates/bookings.php:119 templates/manage-booking.php:776
+msgid "Phone"
+msgstr ""
+
+#: listingpro-bookings.php:126
+msgctxt "post type general name"
+msgid "Appointments"
+msgstr ""
+
+#: listingpro-bookings.php:127
+msgctxt "post type singular name"
+msgid "Booking"
+msgstr ""
+
+#: templates/manage-booking.php:738
+msgid "Registered User"
+msgstr ""
+
+#: listingpro-bookings.php:130
+msgctxt "review"
+msgid "Add New"
+msgstr ""
+
+#: templates/manage-booking.php:149
+msgid "save"
+msgstr ""
+
+#: listingpro-bookings.php:136
+msgid "Search Bookings"
+msgstr ""
+
+#: templates/manage-booking.php:94
+msgid "Select the appointment duration for each slot"
+msgstr ""
+
+#: templates/manage-booking.php:713
+msgid "Settings"
+msgstr ""
+
+#: templates/manage-booking.php:82
+msgid "Setup Appointments"
+msgstr ""
+
+#: templates/manage-booking.php:71
+msgid ""
+"Start accepting appointments from all your listings and manage it from a "
+"single dashboard. Provide the details below and you can make changes later "
+"in the settings."
+msgstr ""
+
+#: templates/manage-booking.php:69
+msgid "Start Accepting Appointments Now"
+msgstr ""
+
+#: templates/manage-booking.php:73
+msgid "Start Now"
+msgstr ""
+
+#: templates/manage-booking.php:232 templates/manage-booking.php:322
+#: templates/manage-booking.php:416 templates/manage-booking.php:511
+#: templates/manage-booking.php:603
+msgid "STATUS"
+msgstr ""
+
+#: templates/bookings.php:91
+msgid "Switch to"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin Only compatible With listingpro Theme By CridioStudio."
+msgstr ""
+
+#: listingpro-bookings.php:674 templates/manage-booking.php:771
+msgid "Time"
+msgstr ""
+
+#: templates/manage-booking.php:231 templates/manage-booking.php:321
+#: templates/manage-booking.php:415 templates/manage-booking.php:510
+#: templates/manage-booking.php:602
+msgid "TIME SLOT"
+msgstr ""
+
+#: listingpro-bookings.php:555
+msgid "Title"
+msgstr ""
+
+#: templates/bookings.php:102
+msgid "Tuesday"
+msgstr ""
+
+#: templates/manage-booking.php:148
+msgid "Unsaved Event"
+msgstr ""
+
+#: listingpro-bookings.php:134
+msgid "View Booking"
+msgstr ""
+
+#: templates/bookings.php:132
+msgid ""
+"We have received your appointment and will send you a confirmation to your "
+"provided email upon approval."
+msgstr ""
+
+#: templates/manage-booking.php:162
+msgid "You are all set to accept Appointments"
+msgstr ""
+
+#: listingpro-bookings.php:1074
+msgid "You have created a new Appointment"
+msgstr ""
+
+#: listingpro-bookings.php:1089
+msgid "You have received a new Appointment"
+msgstr ""
+
+#: listingpro-bookings.php:1101
+msgid "you will be notified if your Appointment is APPROVED or CANCELED."
+msgstr ""
+
+#: listingpro-bookings.php:1079
+msgid "Your Appointment has been approved"
+msgstr ""
+
+#: listingpro-bookings.php:1084
+msgid "Your Appointment has been canceled"
+msgstr ""
